@@ -1,4 +1,9 @@
-Tablero de Pobreza en México (2008–2018)
+# HTML Practice Exercise
+
+This repository contains a basic HTML exercise focused on page structure and layout.
+
+It was created as part of my learning process in web development.Tablero de Pobreza en México (2008–2018)
+
 Este proyecto nos permite visualizar los diferentes indicadores relacionados con la pobreza en México entre los años 2008 y 2018.
 El tablero está desarrollado en HTML utilizando la librería Google Charts para generar visualizaciones dinámicas y fáciles de interpretar.
 
