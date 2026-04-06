@@ -1,5 +1,5 @@
-📊 Ejercicio 8 – Tablero de Pobreza en México (2008–2018)
-Este proyecto consiste en la creación de un tablero interactivo que visualiza diferentes indicadores relacionados con la pobreza en México entre los años 2008 y 2018.
+Tablero de Pobreza en México (2008–2018)
+Este proyecto nos permite visualizar los diferentes indicadores relacionados con la pobreza en México entre los años 2008 y 2018.
 El tablero está desarrollado en HTML utilizando la librería Google Charts para generar visualizaciones dinámicas y fáciles de interpretar.
 
 🗂️ Contenido del proyecto 🗂️
@@ -7,7 +7,7 @@ El tablero está desarrollado en HTML utilizando la librería Google Charts para
 El archivo principal del ejercicio es:
 index.html, que contiene:
 El código HTML de la página.
-La carga de librerías de Google Charts. 📊
+La carga de librerías de Google Charts. 
 La generación de cinco gráficos diferentes.
 Los datos estadísticos utilizados para cada visualización.
 
